@@ -1,0 +1,51 @@
+html{
+
+	box-sizing: border-box;
+}
+
+
+*,*:before, *:after {
+	box-sizing: inherit;
+}
+
+
+
+
+
+nav ul{
+	list-style: none;
+  
+    background: #Ffffffff;
+    padding: 20px;  
+}
+nav ul li{
+	display: inline;
+	;
+    margin: 5px;
+    padding: 4;
+
+}
+
+div{
+
+	background: #ffe5e5;
+    padding: 50px;
+    margin: 0 25%;
+}
+
+
+span{ 
+float:right; }
+
+.icon{
+	width:30px;
+}
+
+
+
+p{
+	background:#ccffff
+ padding: 10px;  
+ margin:25%;
+
+}
