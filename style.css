@@ -13,7 +13,7 @@ html{
 
 
 nav ul{
-	list-style: none;
+	list-style: devanagari;
   
     background: #Ffffffff;
     padding: 20px;  
@@ -26,12 +26,35 @@ nav ul li{
 
 }
 
-div{
+h1{
+
+	background: #a9fbc3;
+    padding: 50px;
+    margin: 0 25%;
+}
+
+h2{
 
 	background: #ffe5e5;
     padding: 50px;
     margin: 0 25%;
 }
+
+h3{
+
+	background: #a9fbc3;
+    padding: 50px;
+    margin: 0 25%;
+}
+h4{
+
+	background: #ffe5e5;
+    padding: 50px;
+    margin: 0 25%;
+}
+
+
+
 
 
 span{ 
@@ -40,7 +63,6 @@ float:right; }
 .icon{
 	width:30px;
 }
-
 
 
 p{
